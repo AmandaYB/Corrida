@@ -1,1 +1,2 @@
-# Corrida
+# synchronousBallMovement
+Ball moving synchronously
